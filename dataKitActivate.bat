@@ -1,0 +1,12 @@
+@ECHO OFF
+ECHO.
+ECHO Activating Data Python Enviroment
+ECHO.
+PAUSE
+CLS
+conda activate Data
+ECHO ACTIVATING DATA ENVIROMENT.....
+PAUSE
+CLS
+PAUSE
+CLS
