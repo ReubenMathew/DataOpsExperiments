@@ -22,7 +22,7 @@ Country, EDC-Position, Risk-Rating
  Bhutan,Open on restricted basis,Medium to High Risk
  Bolivia,Open on restricted basis,Medium to High Risk
  Bosniaand Herzegovina,Open on restricted basis,High Risk
- Botswana,Open,Low Risk
+ Botswana,Open,Low to Medium Risk
  Brazil,Open,Low to Medium Risk
  Brunei Darussalam,Limited information available,Low Risk
  Bulgaria,Open,Low to Medium Risk
@@ -37,22 +37,22 @@ Country, EDC-Position, Risk-Rating
  China,Open,Low Risk
  Colombia,Open,Low to Medium Risk
  Comoros,Limited information available,High Risk
- Congo (DRC),Open on highly restricted basis,High Risk
-Republic of Congo,Open on restricted basis,Medium to High Risk
+ Congo, D R C,Open on highly restricted basis,High Risk
+ Congo, Republicof,Open on restricted basis,Medium to High Risk
  Costa Rica,Open,Medium Risk
+ Côted' Ivoire,Open on restricted basis,Medium Risk
  Croatia,Open,Low to Medium Risk
  Cuba,Open on highly restricted basis,High Risk
  Curaçao,Open,Medium Risk
  Cyprus,Open on highly restricted basis,Low to Medium Risk
  Czech Republic,Open,Low Risk
- Côted' Ivoire,Open on restricted basis,Medium Risk
  Denmark,Open,Low Risk
  Djibouti,Limited information available,High Risk
  Dominica,Open on highly restricted basis,Medium Risk
  Dominican Republic,Open,Medium to High Risk
  Ecuador,Open on highly restricted basis,Medium to High Risk
  Egypt,Open on highly restricted basis,Medium to High Risk
- El Salvador,Open on restricted basis,Medium Risk
+ El Salvador,Open on restricted basis,Medium to High Risk
  Equatorial Guinea,Open on highly restricted basis,Medium to High Risk
  Eritrea,Open on highly restricted basis,High Risk
  Estonia,Open,Low Risk
@@ -119,6 +119,7 @@ Republic of Congo,Open on restricted basis,Medium to High Risk
  Morocco,Open on restricted basis,Medium Risk
  Mozambique,Open on highly restricted basis,High Risk
  Myanmar,Open on highly restricted basis,Medium to High Risk
+ Namibia,Open,Low to Medium Risk
  Nauru,Limited information available,No Information
  Nepal,Limited information available,High Risk
  Netherlands,Open,Low Risk
@@ -133,7 +134,7 @@ Republic of Congo,Open on restricted basis,Medium to High Risk
  Palau,Limited information available,No Information
  Panama,Open,Low to Medium Risk
  Papua New Guinea,Open on restricted basis,Medium to High Risk
- Paraguay,Open on restricted basis,Medium to High Risk
+ Paraguay,Open on restricted basis,Medium Risk
  Peru,Open,Low to Medium Risk
  Philippines,Open,Low to Medium Risk
  Poland,Open,Low Risk
@@ -177,7 +178,7 @@ Republic of Congo,Open on restricted basis,Medium to High Risk
  Tonga,Limited information available,Medium to High Risk
  Trinidadand Tobago,Open,Low to Medium Risk
  Tunisia,Open on restricted basis,Medium Risk
- Turkey,Open on restricted basis,Under Review
+ Turkey,Open on restricted basis,Medium Risk
  Turkmenistan,Limited information available,High Risk
  Tuvalu,Limited information available,No Information
  Uganda,Open on restricted basis,Medium to High Risk
@@ -186,7 +187,7 @@ Republic of Congo,Open on restricted basis,Medium to High Risk
  United Kingdom,Open,Low Risk
  United States,Open,Low Risk
  Uruguay,Open,Low to Medium Risk
- Uzbekistan,Limited information available,High Risk
+ Uzbekistan,Limited information available,Medium to High Risk
  Vanuatu,Limited information available,Medium to High Risk
  Venezuela,Open on highly restricted basis,High Risk
  Vietnam,Open,Medium to High Risk

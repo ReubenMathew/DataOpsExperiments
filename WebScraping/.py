@@ -17,13 +17,11 @@ uClient.close()
 page_soup = soup(page_html, "html.parser")
 
 containers = page_soup.findAll("div",{"class":"item-container"})
+print(containers)
 brands = []
 names = []
 shipping_costs = []
 for container in containers:
-
-	brand = container.div.div.a.img["title"]
-	brands.append(brand)
 
 	title_container = container.findAll("a",{"class":"item-title"})
 	name = title_container[0].text.replace(",","|")
@@ -32,6 +30,6 @@ for container in containers:
 	shipping_container = container.findAll("li",{"class":"price-ship"})
 	shipping = shipping_container[0].text.strip()
 	shipping_costs.append(shipping)
-	f.write(brand + "," + name + "," + shipping + "\n")
+	f.write(name + "," + shipping + "\n")
 
 f.close()
