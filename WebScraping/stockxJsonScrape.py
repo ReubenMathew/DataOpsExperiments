@@ -27,5 +27,8 @@ url = ("https://stockx.com/api/browse?page=1&productCategory=sneakers")
 parsed_data = get_jsonparsed_data(url)
 
 products = parsed_data['Products']
+page_data = parsed_data['Pagination']
 for p in products:
     print(p)
+
+print(page_data['limit'])
