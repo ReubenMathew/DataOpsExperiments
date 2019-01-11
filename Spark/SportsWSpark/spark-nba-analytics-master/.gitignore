@@ -1,0 +1,9 @@
+old
+*spark-warehouse
+*.pyc
+0*ipynb
+sb.ipynb
+derby.log
+metastore_db
+test
+.ipynb_checkpoints
